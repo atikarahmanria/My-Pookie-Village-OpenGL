@@ -69,6 +69,14 @@ The application provides a fully interactive experience through both keyboard an
 
 ---
 
+## 🎥 Project Demonstration Video
+
+Watch the full interactive project demo on YouTube:
+
+▶️ [My Pookie Village - OpenGL Graphics Project Demo](https://youtu.be/q8gTNLwMmkE)
+
+---
+
 ## 📸 Project Screenshots & Interactive Modes
 
 Here are the different screens and environmental views available in this application.
@@ -99,6 +107,20 @@ Here are the different screens and environmental views available in this applica
 
 ---
 
+## ⚠️ Copyright & Usage Notice
+
+This project was independently designed and developed by **Atika Rahman Ria** for academic and portfolio purposes.
+
+You are welcome to explore, learn from, and reference this project. However, unauthorized copying, redistribution, or direct academic submission of this work without proper credit is strongly discouraged.
+
+If you wish to reuse or modify any part of this project, please provide appropriate attribution to the original author.
+
+---
+
 ## 📞 Contact
 
+Feel free to reach out for feedback, suggestions, collaboration, or to report any issues related to the project.
+
 * **Email:** atikarahmanria@gmail.com
+
+---
